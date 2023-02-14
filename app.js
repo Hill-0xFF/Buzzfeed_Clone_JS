@@ -63,4 +63,34 @@ const questions = [
             },
         ]
     },
+    {
+        id: 2,
+        text: 'Pick a home:',
+        answers: [
+            {
+                text: 'Living Room',
+                image: 'https://images.unsplash.com/photo-1501183638710-841dd1904471?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80',
+                alt: 'Photo of a Living Room',
+                credit: 'Outsite Co.'
+            },
+            {
+                text: 'Historical Home',
+                image: 'https://images.unsplash.com/photo-1632947639352-a4379120f809?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80',
+                alt: 'Photo of a Historical Home',
+                credit: 'Nathalia Segato'
+            },
+            {
+                text: 'Simple House',
+                image: 'https://images.unsplash.com/photo-1632798121054-c6b73cc9e8b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80',
+                alt: 'Photo of a Simple House',
+                credit: 'Victoria Shes'
+            },
+            {
+                text: 'Modern Home',
+                image: 'https://images.unsplash.com/photo-1600585154526-990dced4db0d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
+                alt: 'Photo of a Modern Home',
+                credit: 'R Architecture'
+            },
+        ]
+    },
 ]
